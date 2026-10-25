@@ -176,6 +176,3 @@ Common issues investigated during implementation:
 - Do not commit credentials, private keys, or sensitive infrastructure details.
 - For production environments, evaluate AWS NAT Gateway as a managed alternative, including availability, scalability, cost, and operational requirements.
 
-## Disclaimer
-
-This project is intended for educational and hands-on cloud networking practice. IP addresses, subnet ranges, and configuration values should be adapted to the target environment.
